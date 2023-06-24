@@ -1,4 +1,4 @@
-# AddressLocation
+# Address Location
 ```
 CREATE TABLE Address (
     AddressID INT PRIMARY KEY,
